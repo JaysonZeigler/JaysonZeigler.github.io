@@ -1,0 +1,56 @@
+h1{
+color: #9300A7;
+text-align:center;
+font-size: 40px;
+}
+
+.heading1{
+width: 300px;
+border: 10px solid rgb(141, 0, 222);
+padding: 0;
+margin: auto;
+}
+
+div {
+    width: 300px;
+    border: 10px solid rgb(141, 0, 222);
+    padding: 0;
+    margin: auto;
+
+}
+
+
+p {
+    text-align: center;
+    color:rgb(0, 183, 255);
+    font-size: 15px;
+}
+body{
+    background-color:rgb(0, 0, 0);
+}
+
+
+
+a:link {
+    color:rgb(0, 183, 255);
+    background-color:rgb(0, 110, 255);
+    padding: 0.5px 15px;
+    margin-left: 47%;
+    margin-right: 47%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 10px;
+    display: block;
+}
+
+a:hover {
+    color:rgb(0, 110, 255);
+    background-color:rgb(47, 0, 255);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+  }
